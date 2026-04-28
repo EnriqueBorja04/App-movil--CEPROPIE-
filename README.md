@@ -1,4 +1,4 @@
-# App Live CEPROPIE - Transmisión Oficial
+# App  Live CEPROPIE - Transmisión Oficial
 
 Una solución móvil enfocada en la transparencia y el acceso a la información, permitiendo a los usuarios sintonizar las transmisiones en vivo de la "Mañanera" y eventos oficiales de la Presidencia de México.
 
