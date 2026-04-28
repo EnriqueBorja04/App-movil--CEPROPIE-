@@ -1,2 +1,12 @@
-# App-movil--CEPROPIE-
-Aplicación móvil para el streaming en vivo de las conferencias matutinas y eventos oficiales de la Presidencia de México (CEPROPIE).
+# App Live CEPROPIE - Transmisión Oficial
+
+Una solución móvil enfocada en la transparencia y el acceso a la información, permitiendo a los usuarios sintonizar las transmisiones en vivo de la "Mañanera" y eventos oficiales de la Presidencia de México.
+
+## Funcionalidades
+* **Streaming en Tiempo Real:** Integración de reproductores de video para transmisiones en directo.
+* **Interfaz Intuitiva:** Diseño limpio enfocado en la facilidad de uso para el ciudadano.
+  
+## Stack Tecnológico
+* **Desarrollo:** Android (Kotlin)
+* **API de Video:** YouTube Data API v3.
+* **Diseño:** Material Design para Android.
